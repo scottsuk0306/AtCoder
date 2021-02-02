@@ -1,0 +1,2 @@
+#Ignore all executable files created when compiling c++ codes
+.exe
