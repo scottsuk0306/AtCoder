@@ -1,4 +1,5 @@
 # Code by tatyam
+# TODO: get used to itertools
 from itertools import *
 N, X = map(int, input().split())
 A = []
